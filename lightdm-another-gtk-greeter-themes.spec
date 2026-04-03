@@ -1,7 +1,7 @@
 Summary:	Themes for lightdm-another-gtk-greeter
 Name:		lightdm-another-gtk-greeter-themes
 Version:	1.0.6.3
-Release:	1
+Release:	2
 License:	GPL v3
 Group:		Themes
 Source0:	http://github.com/kalgasnik/lightdm-another-gtk-greeter-themes/archive/%{version}.tar.gz?/%{name}-%{version}.tar.gz
